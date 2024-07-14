@@ -1,0 +1,701 @@
+!SESSION 2024-07-14 23:50:43.092 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.ui 2 0 2024-07-14 23:50:46.625
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-14 23:50:46.625
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-14 23:50:46.625
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-14 23:50:46.625
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-14 23:50:46.625
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-14 23:50:46.625
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-14 23:50:46.625
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-07-14 23:50:52.240
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\nara'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.ui 2 0 2024-07-14 23:53:21.819
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-14 23:53:21.819
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-14 23:53:21.819
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-14 23:53:21.819
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-14 23:53:21.819
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-14 23:53:21.819
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-14 23:53:21.819
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY Activator 1 0 2024-07-14 23:53:26.888
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-14 23:53:28.064
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-14 23:53:28.394
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-14 23:53:29.005
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-14 23:53:29.847
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-07-14 23:54:58.465
+!MESSAGE Server returned lastModified <= 0 for https://raw.githubusercontent.com/IntelliJIdeaKeymap4Eclipse/IntelliJIdeaKeymap4Eclipse-update-site/main/artifacts.jar
+
+!ENTRY org.eclipse.equinox.p2.repository 2 0 2024-07-14 23:54:58.735
+!MESSAGE Server returned lastModified <= 0 for https://raw.githubusercontent.com/IntelliJIdeaKeymap4Eclipse/IntelliJIdeaKeymap4Eclipse-update-site/main/content.jar
+
+!ENTRY Activator 1 0 2024-07-14 23:56:01.044
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-14 23:56:01.188
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-14 23:56:01.306
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-14 23:56:01.489
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-14 23:56:01.809
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-14 23:56:01.962
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-14 23:56:02.109
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-14 23:56:02.839
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.eclipse.wst.sse.ui 2 0 2024-07-14 23:56:02.862
+!MESSAGE The ''Boot Pom Completions'' proposal computer from the ''org.springframework.ide.eclipse.boot.wizard'' plug-in did not complete normally. The extension violated the API contract of the ''computeContextInformation()'' operation.
+
+!ENTRY org.eclipse.wst.sse.ui 2 0 2024-07-14 23:56:05.088
+!MESSAGE The ''Boot Pom Completions'' proposal computer from the ''org.springframework.ide.eclipse.boot.wizard'' plug-in did not complete normally. The extension violated the API contract of the ''computeContextInformation()'' operation.
+
+!ENTRY Activator 1 0 2024-07-14 23:56:07.413
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-14 23:56:08.779
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.eclipse.wst.sse.ui 2 0 2024-07-14 23:56:09.159
+!MESSAGE The ''Boot Pom Completions'' proposal computer from the ''org.springframework.ide.eclipse.boot.wizard'' plug-in did not complete normally. The extension violated the API contract of the ''computeContextInformation()'' operation.
+
+!ENTRY Activator 1 0 2024-07-14 23:56:23.831
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-14 23:57:04.989
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.eclipse.ui 2 2 2024-07-14 23:57:15.254
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2024-07-15 00:00:07.407
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:00:16.978
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:00:56.805
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:00:58.461
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:00:59.058
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:00:59.711
+!MESSAGE Has main method computation for project 'blog'
+!SESSION 2024-07-15 00:01:17.214 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.ui 2 0 2024-07-15 00:01:19.585
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-15 00:01:19.585
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-15 00:01:19.585
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-15 00:01:19.585
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-15 00:01:19.585
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-15 00:01:19.585
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-15 00:01:19.585
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY Activator 1 0 2024-07-15 00:01:29.592
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-07-15 00:01:29.641
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\nara'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY org.eclipse.m2e.logback.appender 4 0 2024-07-15 00:01:30.315
+!MESSAGE failed to load maven project for org.eclipse.ui.part.FileEditorInput(/blog/pom.xml)
+!STACK 1
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:850)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1070)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1069)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:251)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:260)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:632)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:936)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+Contains: Some problems were encountered while processing the POMs:
+[ERROR] 'dependencies.dependency.version' for javax.servlet:jstl:jar is missing. @ line 36, column 14
+
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[ERROR] 'dependencies.dependency.version' for javax.servlet:jstl:jar is missing. @ line 36, column 14
+
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProjects(MavenImpl.java:676)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$13(ProjectRegistryManager.java:870)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:1028)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:866)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:835)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1070)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1069)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:251)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:260)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:632)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:936)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+!SUBENTRY 1 org.eclipse.m2e.core 4 0 2024-07-15 00:01:30.316
+!MESSAGE Could not read maven project
+!SUBENTRY 2 org.eclipse.m2e.core 4 0 2024-07-15 00:01:30.316
+!MESSAGE Some problems were encountered while processing the POMs:
+[ERROR] 'dependencies.dependency.version' for javax.servlet:jstl:jar is missing. @ line 36, column 14
+
+!STACK 0
+org.apache.maven.project.ProjectBuildingException: Some problems were encountered while processing the POMs:
+[ERROR] 'dependencies.dependency.version' for javax.servlet:jstl:jar is missing. @ line 36, column 14
+
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readMavenProjects(MavenImpl.java:676)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$13(ProjectRegistryManager.java:870)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:179)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:153)
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:101)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.execute(ProjectRegistryManager.java:1028)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectsWithDependencies(ProjectRegistryManager.java:866)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:835)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.lambda$22(ProjectRegistryManager.java:1070)
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4878)
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3529)
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2278)
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2155)
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2045)
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3953)
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4873)
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:1069)
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:251)
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:260)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:632)
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$3.run(MavenPomEditor.java:936)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
+
+!ENTRY Activator 1 0 2024-07-15 00:01:31.874
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:03:25.826
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:03:52.409
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:03:52.499
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:03:57.035
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:03:59.310
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:04:01.779
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:04:02.892
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:04:30.187
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:04:33.074
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:04:33.154
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.eclipse.ui 2 2 2024-07-15 00:05:28.935
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY Activator 1 0 2024-07-15 00:05:34.993
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:05:36.648
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:05:36.854
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:06:12.485
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:06:21.911
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:06:23.741
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:06:24.416
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:06:25.577
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.eclipse.wst.sse.ui 2 0 2024-07-15 00:07:49.313
+!MESSAGE The ''Boot Pom Completions'' proposal computer from the ''org.springframework.ide.eclipse.boot.wizard'' plug-in did not complete normally. The extension violated the API contract of the ''computeContextInformation()'' operation.
+
+!ENTRY org.eclipse.wst.sse.ui 2 0 2024-07-15 00:07:52.861
+!MESSAGE The ''Boot Pom Completions'' proposal computer from the ''org.springframework.ide.eclipse.boot.wizard'' plug-in did not complete normally. The extension violated the API contract of the ''computeContextInformation()'' operation.
+
+!ENTRY org.eclipse.wst.sse.ui 2 0 2024-07-15 00:07:58.108
+!MESSAGE The ''Boot Pom Completions'' proposal computer from the ''org.springframework.ide.eclipse.boot.wizard'' plug-in did not complete normally. The extension violated the API contract of the ''computeContextInformation()'' operation.
+
+!ENTRY Activator 1 0 2024-07-15 00:08:05.526
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:08:06.129
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:08:07.970
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:08:08.430
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:08:22.297
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:08:23.024
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:08:23.131
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:08:24.360
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:08:24.750
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:08:25.324
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:08:27.004
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:08:29.419
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:08:31.118
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:08:31.336
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:08:32.772
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:08:32.859
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:08:36.299
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:08:37.161
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:08:37.809
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:08:39.055
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:09:29.169
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:09:30.847
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:09:31.071
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:09:32.474
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:09:37.166
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:09:37.579
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:09:38.622
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:09:41.580
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:09:43.518
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:10:41.696
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:10:41.920
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:10:58.372
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:10:58.375
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@2574123a[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:10:58.379
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:10:58.404
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:11:00.825
+!MESSAGE Boot LS startup time from start to initialized: 2437ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:11:00.902
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.PzkchpfkisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:11:00.905
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:11:00.907
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:11:00.908
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:11:00.909
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:11:00.909
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.Pzkchpfk => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:11:00.922
+!MESSAGE classpath=106 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:11:00.932
+!MESSAGE buffering callback sts4.classpath.Pzkchpfk blog false 106
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:11:00.932
+!MESSAGE executing callback sts4.classpath.Pzkchpfk 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:11:01.274
+!MESSAGE executing callback sts4.classpath.Pzkchpfk SUCCESS [done]
+
+!ENTRY Activator 1 0 2024-07-15 00:11:52.044
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:11:52.647
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.eclipse.lsp4e 2 0 2024-07-15 00:21:48.631
+!MESSAGE Javadoc unavailable. Failed to obtain it.
+!STACK 0
+java.lang.InterruptedException
+	at java.base/java.util.concurrent.CompletableFuture.reportGet(CompletableFuture.java:385)
+	at java.base/java.util.concurrent.CompletableFuture.get(CompletableFuture.java:2092)
+	at org.eclipse.lsp4e.jdt.LSJavaHoverProvider.getHoverInfo2(LSJavaHoverProvider.java:70)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:163)
+	at org.eclipse.jdt.internal.ui.text.java.hover.BestMatchHover.getHoverInfo2(BestMatchHover.java:130)
+	at org.eclipse.jdt.internal.ui.text.java.hover.JavaEditorTextHoverProxy.getHoverInfo2(JavaEditorTextHoverProxy.java:89)
+	at org.eclipse.jface.text.TextViewerHoverManager$1.run(TextViewerHoverManager.java:155)
+
+!ENTRY Activator 1 0 2024-07-15 00:22:46.477
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:22:47.113
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:24:05.409
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:24:07.600
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:24:07.607
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:24:07.619
+!MESSAGE classpath=81 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:24:07.629
+!MESSAGE buffering callback sts4.classpath.Pzkchpfk blog false 81
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:24:07.630
+!MESSAGE executing callback sts4.classpath.Pzkchpfk 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:24:07.674
+!MESSAGE executing callback sts4.classpath.Pzkchpfk SUCCESS [done]
+
+!ENTRY Activator 1 0 2024-07-15 00:24:07.851
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:24:09.214
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:25:31.149
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:25:33.680
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:25:33.682
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:25:33.692
+!MESSAGE classpath=79 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:25:33.701
+!MESSAGE buffering callback sts4.classpath.Pzkchpfk blog false 79
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:25:33.702
+!MESSAGE executing callback sts4.classpath.Pzkchpfk 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:25:33.739
+!MESSAGE executing callback sts4.classpath.Pzkchpfk SUCCESS [done]
+
+!ENTRY Activator 1 0 2024-07-15 00:25:33.898
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:25:34.834
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:26:50.576
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:26:52.428
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:27:30.920
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:27:34.126
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:27:35.779
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:27:50.242
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:27:50.262
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:27:50.264
+!MESSAGE classpath=76 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:27:50.273
+!MESSAGE buffering callback sts4.classpath.Pzkchpfk blog false 76
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:27:50.273
+!MESSAGE executing callback sts4.classpath.Pzkchpfk 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:27:50.328
+!MESSAGE executing callback sts4.classpath.Pzkchpfk SUCCESS [done]
+
+!ENTRY Activator 1 0 2024-07-15 00:27:50.777
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:27:58.044
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:27:58.106
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:27:58.530
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:28:03.384
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:28:03.384
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:28:03.395
+!MESSAGE classpath=76 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:28:03.403
+!MESSAGE buffering callback sts4.classpath.Pzkchpfk blog false 76
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:28:03.404
+!MESSAGE executing callback sts4.classpath.Pzkchpfk 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:28:03.442
+!MESSAGE executing callback sts4.classpath.Pzkchpfk SUCCESS [done]
+
+!ENTRY Activator 1 0 2024-07-15 00:28:03.550
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:29:40.800
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:29:41.361
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:30:39.071
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:30:39.679
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:32:26.780
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.Pzkchpfk
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:32:26.780
+!MESSAGE unsubscribing from classpath changes: sts4.classpath.Pzkchpfk
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:32:26.781
+!MESSAGE subsribers = {}
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:32:26.782
+!MESSAGE ClasspathListenerHandler removeClasspathListener sts4.classpath.Pzkchpfk => OK
+!SESSION 2024-07-15 00:32:30.747 -----------------------------------------------
+eclipse.buildId=4.11.0.202106180608
+java.version=16.0.1
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=ko_KR
+Framework arguments:  -product org.springframework.boot.ide.branding.sts4
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.springframework.boot.ide.branding.sts4
+
+!ENTRY org.eclipse.ui 2 0 2024-07-15 00:32:33.173
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' and 'org.eclipse.ui.bindings' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-15 00:32:33.173
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-15 00:32:33.173
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-15 00:32:33.173
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.enclosing'
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-15 00:32:33.173
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-15 00:32:33.173
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+!SUBENTRY 1 org.eclipse.ui 2 0 2024-07-15 00:32:33.173
+!MESSAGE Cannot bind to an undefined command: plug-in='com.github.intellijideakeymap4eclipse.plugin', id='org.eclipse.wst.jsdt.ui.edit.text.java.select.last'
+
+!ENTRY org.eclipse.egit.ui 2 0 2024-07-15 00:32:42.296
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\nara'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
+
+!ENTRY Activator 1 0 2024-07-15 00:32:45.340
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY Activator 1 0 2024-07-15 00:32:47.016
+!MESSAGE Has main method computation for project 'blog'
+
+!ENTRY org.eclipse.ui 2 2 2024-07-15 00:32:47.365
+!MESSAGE Invalid property category path: org.springframework.ide.eclipse.beans.ui.properties.ProjectPropertyPage (bundle: org.springframework.ide.eclipse.xml.namespaces, propertyPage: org.springframework.ide.eclipse.beans.ui.namespaces.projectPropertyPage)
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:33:02.726
+!MESSAGE Entering DelegatingStreamConnectionProvider()
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:33:02.727
+!MESSAGE DelegatingStreamConnectionProvider classloader = org.eclipse.osgi.internal.loader.EquinoxClassLoader@474f69d[org.springframework.tooling.boot.ls:1.26.0.202106150606(id=559)]
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:33:02.732
+!MESSAGE SpringBootLanguageServer exists!
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:33:02.760
+!MESSAGE Instantiating ReusableClasspathListenerHandler
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:33:05.041
+!MESSAGE Boot LS startup time from start to initialized: 2301ms
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:33:05.122
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.uAdaVMuWisBatched = true
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:33:05.127
+!MESSAGE Setting up ClasspathListenerManager
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:33:05.129
+!MESSAGE Scheduling initial event for all projects ...
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:33:05.132
+!MESSAGE Scheduling initial event for all projects DONE
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:33:05.132
+!MESSAGE exists = true open = true => deleted = false
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:33:05.133
+!MESSAGE ClasspathListenerHandler addClasspathListener sts4.classpath.uAdaVMuW => OK
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:33:05.154
+!MESSAGE classpath=76 entries
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:33:05.163
+!MESSAGE buffering callback sts4.classpath.uAdaVMuW blog false 76
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:33:05.164
+!MESSAGE executing callback sts4.classpath.uAdaVMuW 1 batched events
+
+!ENTRY org.springframework.tooling.ls.eclipse.commons 1 0 2024-07-15 00:33:05.500
+!MESSAGE executing callback sts4.classpath.uAdaVMuW SUCCESS [done]
